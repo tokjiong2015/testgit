@@ -30,9 +30,18 @@ public class IbiCommonActionValidator
 		}
 
 	}
+<<<<<<< Updated upstream
 	
 	public void printLnMethod1()
 	{
 		System.out.println("helloWorld");
 	}
+=======
+
+	public void printLnMethod2()
+	{
+	    System.out.println("testing");
+	}
+
+>>>>>>> Stashed changes
 }
