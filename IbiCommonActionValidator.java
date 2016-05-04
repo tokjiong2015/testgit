@@ -30,4 +30,9 @@ public class IbiCommonActionValidator
 		}
 
 	}
+	
+	public void printLnMethod1()
+	{
+		System.out.println("helloWorld");
+	}
 }
