@@ -10,4 +10,8 @@
 bbbbbb
 pppppp
 hihihi
+<<<<<<< Updated upstream
 hehehehehe
+=======
+xixixi
+>>>>>>> Stashed changes
